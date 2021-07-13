@@ -1,0 +1,26 @@
+
+<HTML>
+<HEAD>
+<TITLE>TFG - Tíscar Fernandez Guerrero</TITLE>
+<link rel="stylesheet" href="main.css"
+</HEAD>
+<BODY>
+<div class="logo">
+  <img src="home.svg">
+</div>
+<script>
+  window.watsonAssistantChatOptions = {
+      integrationID: "53feca71-7e35-4f59-89f1-7cf8a8201aae", // The ID of this integration.
+      region: "eu-gb", // The region your integration is hosted in.
+      serviceInstanceID: "59d93e52-0612-4ffc-87b8-306c3815279a", // The ID of your service instance.
+      onLoad: function(instance) { instance.render(); }
+    };
+  setTimeout(function(){
+    const t=document.createElement('script');
+    t.src="https://web-chat.global.assistant.watson.appdomain.cloud/loadWatsonAssistantChat.js";
+    document.head.appendChild(t);
+  });
+</script>
+
+</BODY>
+</HTML>

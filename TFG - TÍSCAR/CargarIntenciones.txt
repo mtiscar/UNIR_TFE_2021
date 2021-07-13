@@ -1,0 +1,2 @@
+Eliminar correo,EliminarCorreo
+Suprimir correo,EliminarCorreo

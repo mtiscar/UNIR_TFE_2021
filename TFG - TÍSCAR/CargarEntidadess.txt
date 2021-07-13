@@ -1,0 +1,7 @@
+Funcionalidad,Agenda,diario,calendario,cita,reunión
+Funcionalidad,Contacto,persona,dirección,tarjeta,grupo
+Funcionalidad,Tarea,encargo,To-Do,task
+Funcionalidad,Nota,apunte,aclaración,explicación,Post-it
+Configuración,PC,Ordenador,portátil,tableta,Windows 
+Configuración,Móvil,iOS,Android
+Configuración,Web,WebAcces,navegador,Chrome 
